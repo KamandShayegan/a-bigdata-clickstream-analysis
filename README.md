@@ -6,6 +6,8 @@
 
 * The analyses contained within this repository were conducted collaboratively by a team of two individuals.
 
+### Final report can be found at: https://docs.google.com/document/d/1NK89SPzYWs3y18eXTLbReuBRhSjyfPMD17CS1p-qzvA/edit?usp=sharing
+
 * Authors: 
     1. Kamand Sedaghat Shayegan
     2. Nastaran Taefi Aghdam

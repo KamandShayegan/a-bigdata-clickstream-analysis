@@ -79,6 +79,7 @@ The dataset contains no missing values.
 <img width="480" alt="model_eval" src="https://github.com/KamandShayegan/bigdata-online-shopping/assets/77912859/6e3838d0-5f88-471d-af4e-16af2f7dc0bd">
 
 ## Clustering
+Used **Elbow Method** to help with the number of clusters: 3
 
 ### 1. Order percentage in each cluster grouped by colour
 <img width="480" alt="order_per_in_each_cluster_grouped_by_color" src="https://github.com/KamandShayegan/bigdata-online-shopping/assets/77912859/d13214f1-486d-4b22-ab8a-6d0f80c2dcb8">

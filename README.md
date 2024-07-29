@@ -1,23 +1,17 @@
-# E Shopping Clickstream
+# E-Shopping Clickstream - A Big Data Analysis
 
-### Source of the dataset: https://archive.ics.uci.edu/dataset/553/clickstream+data+for+online+shopping
+## Dataset: https://archive.ics.uci.edu/dataset/553/clickstream+data+for+online+shopping
+## Doc: https://docs.google.com/document/d/1NK89SPzYWs3y18eXTLbReuBRhSjyfPMD17CS1p-qzvA/edit?usp=sharing
 
-* This dataset is licensed under the GNU General Public License (GPL) Version 3, which permits copying and distribution while preserving certain freedoms. However, it's important to note that the license prohibits modifications.  
-
-* The analyses contained within this repository were conducted collaboratively by a team of two individuals.
-
-### Final report can be found at: https://docs.google.com/document/d/1NK89SPzYWs3y18eXTLbReuBRhSjyfPMD17CS1p-qzvA/edit?usp=sharing
-
-* Authors: 
-    1. Kamand Sedaghat Shayegan
-    2. Nastaran Taefi Aghdam
+## Authors
+- Kamand Sedaghat Shayegan
+- Nastaran Taefi Aghdam 
+### Grading 
+Both authors received a 5/5 grade as a result of this final project and 4 weekly assignments.
 
 ## Dataset Schema
-The dataset includes 14 features and 165474 instances.
-
-
-## Missing Values
-The dataset contains no missing values.
+- The dataset includes 14 features and 165474 instances.
+- The dataset contains no missing values.
 
 ## Distribution of Variables
 
@@ -91,3 +85,5 @@ Used **Elbow Method** to help with the number of clusters: 3
 <img width="480" alt="order_perc_of_clusters_grouped_by_main_cat" src="https://github.com/KamandShayegan/bigdata-online-shopping/assets/77912859/19700e4d-df02-41a2-8d61-61132da286c7">
 
 
+## Final Note 
+This dataset is licensed under the GNU General Public License (GPL) Version 3, which permits copying and distribution while preserving certain freedoms. However, it's important to note that the license prohibits modifications. 

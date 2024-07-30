@@ -1,19 +1,20 @@
 # E-Shopping Clickstream - A Big Data Analysis
 
-## Dataset: https://archive.ics.uci.edu/dataset/553/clickstream+data+for+online+shopping
-## Doc: https://docs.google.com/document/d/1NK89SPzYWs3y18eXTLbReuBRhSjyfPMD17CS1p-qzvA/edit?usp=sharing
+## Introduction
+In this project, we analyzed a clickstream dataset from an online store for maternity clothing. We started with a review of related works and a detailed description of the dataset, including schema and data types. Using Matplotlib, we visualized the data with bar and pie charts to explore distributions and relationships. Our analysis included predictive modeling with a Gradient Boosted Tree, evaluated using various techniques, yielding promising results. We also applied association rule mining to uncover significant patterns, using metrics like support, confidence, and lift. Clustering analysis revealed natural groupings in the data, enhancing our understanding. Overall, these analyses provide insights for developing further predictive models on practical features. Check out the complete report analysis [here](https://docs.google.com/document/d/1NK89SPzYWs3y18eXTLbReuBRhSjyfPMD17CS1p-qzvA/edit?usp=sharing).
 
-## Authors
-- Kamand Sedaghat Shayegan
+## Contributors
+- Kamand Sedaghat Shayegan (grade: 5/5)
 - Nastaran Taefi Aghdam 
-### Grading 
-Both authors received a 5/5 grade as a result of this final project and 4 weekly assignments.
 
-## Dataset Schema
-- The dataset includes 14 features and 165474 instances.
-- The dataset contains no missing values.
-
-## Distribution of Variables
+## Building
+1. **Python 3.x** - Download and install from [python.org](https://www.python.org/downloads/).
+2. **Java Development Kit (JDK)** - Required for PySpark. Download and install from [oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html).
+3. **Apache Spark** - Download and install from [spark.apache.org](https://spark.apache.org/downloads.html).
+4. **Jupyter Notebook** - Install via pip.
+5. **Required Python Packages**: pyspark, matplotlib, pandas - Install via pip
+6. **Run Each Project File**
+ <!-- ## Distribution of Variables
 
 ### 1. Price 2
 #### The price of a particular product is higher than the average price for the entire product category.
@@ -83,7 +84,7 @@ Used **Elbow Method** to help with the number of clusters: 3
 
 ### 2. Order percentage in each cluster grouped by main category
 <img width="480" alt="order_perc_of_clusters_grouped_by_main_cat" src="https://github.com/KamandShayegan/bigdata-online-shopping/assets/77912859/19700e4d-df02-41a2-8d61-61132da286c7">
-
+-->
 
 ## Final Note 
 This dataset is licensed under the GNU General Public License (GPL) Version 3, which permits copying and distribution while preserving certain freedoms. However, it's important to note that the license prohibits modifications. 
